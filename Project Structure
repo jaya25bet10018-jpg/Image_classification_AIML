@@ -1,0 +1,23 @@
+#Project Structure:-
+image-classification-project/
+│
+├── README.md
+├── statement.md
+├── requirements.txt
+├── image_classification.py
+├── images/
+│   └── dog.jpg           # Sample input image
+├── assets/
+│   └── README_assets.md  # Optional placeholder for any assets like diagrams
+└── .gitignore
+
+#Notes / Usage
+Install dependencies:
+pip install -r requirements.txt
+Place your input image in images/ folder.
+Run the script:
+python image_classification.py
+
+#images:-
+Place your sample input images here (e.g., dog.jpg, cat.jpg, etc.)
+The code reads the image from this folder.
