@@ -20,3 +20,6 @@ Run the Project
 python image_classification.py 
 To Test the Program 
 Replace dog.jpg with any other image.
+
+<img width="900" height="750" alt="image" src="https://github.com/user-attachments/assets/b2c9b07f-fc40-4c02-9eaa-74103326847e" />
+
