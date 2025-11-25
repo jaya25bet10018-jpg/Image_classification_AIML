@@ -22,4 +22,8 @@ To Test the Program
 Replace dog.jpg with any other image.
 
 <img width="900" height="750" alt="image" src="https://github.com/user-attachments/assets/b2c9b07f-fc40-4c02-9eaa-74103326847e" />
+<img width="900" height="766" alt="image" src="https://github.com/user-attachments/assets/51c45988-b094-4d1f-9e80-e7763709624b" />
+<img width="900" height="750" alt="image" src="https://github.com/user-attachments/assets/9f3778cb-85c3-4384-be3e-56b3e97d5b61" />
+
+
 
